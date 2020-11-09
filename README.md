@@ -2,6 +2,7 @@
 Computer vision in Python
 
 ## Project 1
+Main file: project1.ipynb
 
 * Camera projection matrix
 
@@ -10,6 +11,7 @@ Computer vision in Python
 * Color Spaces and illuminance
 
 ## Project 2
+Main file: project2.ipynb
 
 * Image Filtering
 
@@ -18,6 +20,7 @@ Computer vision in Python
 * Blob Detection
 
 ## Project 3 (To do)
+Main file: project3.ipynb
 
 * RANSAC
 
